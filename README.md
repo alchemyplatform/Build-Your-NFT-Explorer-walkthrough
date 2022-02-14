@@ -97,7 +97,7 @@ Getting started is super simple! Follow the following steps and start fetching N
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/alchemyplatform/NFT-API-demo.git
+   git clone https://github.com/alchemyplatform/Build-Your-NFT-Explorer-walkthrough.git
    ```
 2. Install the dependencies using npm or yarn
    ```sh
