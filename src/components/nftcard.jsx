@@ -24,7 +24,17 @@ const NftCard = ({ image, id, title, address, description, attributes }) => {
                 </div>
                 {/*<p>{description? description.slice(0, 200) : "No Description"}</p>*/}
             </div>
+
+            {/*
+                you can use this data model to populate your cards:
+                attribute = {
+                    trait_type: "facial_feature"
+                    value: "None v5"
+                }
+              */}
+
             <div className="flex flex-wrap justify-center items-center p-3 ">
+
                 {/*{attributes?.length > 0 && attributes.map(attribute => {*/}
                 {/*    return (*/}
                 {/*        <div className="w-1/2 mb-2 flex justify-start flex-col">*/}
