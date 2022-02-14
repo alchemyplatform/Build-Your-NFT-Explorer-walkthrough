@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alchemyplatform/NFT-API-demo/">
+  <a href="https://github.com/alchemyplatform/Build-Your-NFT-Explorer-walkthrough.git">
           <img src="https://user-images.githubusercontent.com/72762629/152393096-1a99518a-6632-4f10-9c71-b29b20c380e2.png" alt="Logo" height="80" >
   </a>
 
